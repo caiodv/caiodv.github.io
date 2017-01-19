@@ -1,0 +1,16 @@
+{
+	"socket": "ws://127.0.0.1",
+	"port": "3000",
+	"signal":{
+		"high": {
+			"freq":900,
+			"peak": -65
+			},
+		"low": {
+			"freq":800,
+			"peak": -65
+			},
+		"baseInterval": 100,
+		"iterations": 1
+	}
+}
